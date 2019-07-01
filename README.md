@@ -1,2 +1,0 @@
-# djangonew
-Created with CodeSandbox
